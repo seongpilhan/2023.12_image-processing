@@ -218,25 +218,6 @@ print(f"Prediction: {result['class']}, Confidence: {result['confidence']}")
 - **한성필** - AI Researcher, Korea Testing Laboratory
 - **윤재영** - Co-researcher
 
-## 📧 Contact
-
-- Email: [your-email@example.com]
-- Project Link: [https://github.com/username/covid-pneumonia-classification](https://github.com/username/repo)
-
-## 📝 Citation
-```bibtex
-@inproceedings{han2024frequency,
-  title={Frequency-Domain Feature Engineering for Enhanced COVID-19 and Pneumonia Classification},
-  author={Han, Seongpil and Yoon, Jaeyoung},
-  booktitle={Computer Vision Project},
-  year={2024}
-}
-```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - KAGGLE COVID-19 Radiography Database for providing the dataset
@@ -245,4 +226,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **Key Findings**: DWT 전처리를 통해 COVID-19와 폐렴 분류 정확도를 99.42%까지 향상시킴으로써, 주파수 도메인 분석이 의료영상 분류에 효과적임을 입증하였습니다.
+⭐ **Key Findings**: DWT 전처리를 통해 COVID-19와 폐렴 분류 정확도를 향상시킴으로써, 주파수 도메인 분석이 의료영상 분류에 효과적임을 입증하였습니다.
